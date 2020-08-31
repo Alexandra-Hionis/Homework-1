@@ -1,1 +1,1 @@
-# homework-1
+This project consisted of refactoring code to meet the current standards defined by HTML5 and CSS3. There were also corrections to html and css code, such as fixing a broken link, removal of repetitive classes/class styles and updates in semantic structure. 
